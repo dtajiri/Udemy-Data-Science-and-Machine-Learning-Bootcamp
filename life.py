@@ -6,4 +6,4 @@ def quote_marvin():
     print('Ive calculated your chance of survival, but I don\'t think you\'ll like it.')
 
 def square_root(x):
-    return sqrt(x)
+    return math.sqrt(x)
